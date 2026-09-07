@@ -291,8 +291,9 @@
     {
       "@id": "https://repolex.ai/r/tower-rs/tower/commit/b57517521098423ea1068a8f08d76906ef8a6d11",
       "git:hexsha": "b57517521098423ea1068a8f08d76906ef8a6d11",
-      "repolex:parseStatus": "pending",
-      "git:tagName": "tower-util-0.3.1"
+      "repolex:parseStatus": "parsed",
+      "git:tagName": "tower-util-0.3.1",
+      "repolex:parsedAt": "2026-09-07T14:01:19.890385+00:00"
     }
   ]
 }
