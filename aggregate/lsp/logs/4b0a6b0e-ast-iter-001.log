@@ -1,0 +1,7 @@
+[2026-09-07T06:08:03Z] === AST ITERATION 1 START | repo=tower-rs/tower sha=4b0a6b0e ===
+[2026-09-07T06:08:03Z] [iter=1] PHASE START: ast repo=tower-rs/tower sha=4b0a6b0e
+[2026-09-07T06:08:03Z] [iter=1] Building AST aggregate chunks
+[2026-09-07T06:08:46Z] [iter=1] AST chunks built count=1 triples=548189
+[2026-09-07T06:08:46Z] [iter=1] AST .complete marker written path=/home/runner/work/forx/forx/storage/aggregate/ast/4b0a6b0e688bd177eb2c9c97f5268dd9703c66fc/.complete
+[2026-09-07T06:08:46Z] [iter=1] PHASE END: ast elapsed_s=43 elapsed_min=0.7
+[2026-09-07T06:08:46Z] [iter=1] Wrote .next-action.json next_action=enrich path=/home/runner/work/forx/forx/storage/aggregate/.next-action.json
