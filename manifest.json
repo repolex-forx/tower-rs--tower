@@ -167,6 +167,101 @@
         "blob/c7d4da57211efe18e9b2018ef2923683e103ce3b.nq.gz",
         "blob/5585db79698010c7eb82b23bd6a53ceb0be7d02e.nq.gz",
         "blob/9c49e4bafd3a79208bfbcdcf14c9613b5ee6132e.nq.gz"
+      ],
+      "lsp": "aggregate/lsp/4b0a6b0e688bd177eb2c9c97f5268dd9703c66fc.nq.gz",
+      "dependencies": [
+        {
+          "packageName": "tokio-test",
+          "ecosystem": "CARGO",
+          "version": "0.4.6",
+          "githubOrg": "tokio-rs",
+          "githubRepo": "tokio",
+          "githubUrl": "https://github.com/tokio-rs/tokio",
+          "source": "lsp",
+          "install_path": "/home/runner/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tokio-test-0.4.6/src/macros.rs"
+        },
+        {
+          "packageName": "futures-util",
+          "ecosystem": "CARGO",
+          "version": "0.3.34",
+          "githubOrg": "rust-lang",
+          "githubRepo": "futures-rs",
+          "githubCommit": "705e6b5c0f06535b1aac1cb1989a172b3d45be8c",
+          "githubTag": "0.3.34",
+          "githubUrl": "https://github.com/rust-lang/futures-rs",
+          "source": "lsp",
+          "install_path": "/home/runner/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/futures-util-0.3.34/src/lib.rs"
+        },
+        {
+          "packageName": "rand",
+          "ecosystem": "CARGO",
+          "version": "0.9.5",
+          "githubOrg": "rust-random",
+          "githubRepo": "rand",
+          "githubCommit": "3474ec047279e5de32676c50154ff7d76d12a94e",
+          "githubTag": "0.9.5",
+          "githubUrl": "https://github.com/rust-random/rand",
+          "source": "lsp",
+          "install_path": "/home/runner/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rand-0.9.5/src/lib.rs"
+        },
+        {
+          "packageName": "tokio",
+          "ecosystem": "CARGO",
+          "version": "1.53.1",
+          "githubOrg": "tokio-rs",
+          "githubRepo": "tokio",
+          "githubCommit": "75fef53d0a8590c2d1dbb63672aa7b7d1ef51155",
+          "githubTag": "tokio-1.53.1",
+          "githubUrl": "https://github.com/tokio-rs/tokio",
+          "source": "lsp",
+          "install_path": "/home/runner/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tokio-1.53.1/src/sync/mpsc/unbounded.rs"
+        },
+        {
+          "packageName": "tracing",
+          "ecosystem": "CARGO",
+          "version": "0.1.44",
+          "githubOrg": "tokio-rs",
+          "githubRepo": "tracing",
+          "githubCommit": "2d55f6faf9be83e7e4634129fb96813241aac2b8",
+          "githubTag": "tracing-0.1.44",
+          "githubUrl": "https://github.com/tokio-rs/tracing",
+          "source": "lsp",
+          "install_path": "/home/runner/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tracing-0.1.44/src/lib.rs"
+        },
+        {
+          "packageName": "tracing-subscriber",
+          "ecosystem": "CARGO",
+          "version": "0.3.23",
+          "githubOrg": "tokio-rs",
+          "githubRepo": "tracing",
+          "githubUrl": "https://github.com/tokio-rs/tracing",
+          "source": "lsp",
+          "install_path": "/home/runner/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tracing-subscriber-0.3.23/src/fmt/mod.rs"
+        },
+        {
+          "packageName": "hdrhistogram",
+          "ecosystem": "CARGO",
+          "version": "7.6.0",
+          "githubOrg": "HdrHistogram",
+          "githubRepo": "HdrHistogram_rust",
+          "githubCommit": "199643836b0c68a9d90d904cc3feb96b8c6e87ce",
+          "githubTag": "v7.6.0",
+          "githubUrl": "https://github.com/HdrHistogram/HdrHistogram_rust.git",
+          "source": "lsp",
+          "install_path": "/home/runner/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/hdrhistogram-7.6.0/src/lib.rs"
+        },
+        {
+          "packageName": "pin-project-lite",
+          "ecosystem": "CARGO",
+          "version": "0.2.17",
+          "githubOrg": "taiki-e",
+          "githubRepo": "pin-project-lite",
+          "githubCommit": "3bdf763446aa78f90e3bdac1ef583e014832ab4c",
+          "githubTag": "v0.2.17",
+          "githubUrl": "https://github.com/taiki-e/pin-project-lite",
+          "source": "lsp",
+          "install_path": "/home/runner/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/pin-project-lite-0.2.17/src/lib.rs"
+        }
       ]
     },
     {
